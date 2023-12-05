@@ -18,9 +18,10 @@ This code was created for usage in the final project for EGN3000L. The code was 
 Other Team Members: Robert Geer, Isaiah Looby, Devanshi Pande, Saksham Srivastava
 
 
-## Code
+## Code:
 
-Any additional information goes here
+----------------------------------------------------------------
+
 
 /*
 PKT
